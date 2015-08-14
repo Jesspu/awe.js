@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <body>
 <h1>Augmented Reality Ghost Killing Game</h1>
 <h3>Contributors: </h3>
